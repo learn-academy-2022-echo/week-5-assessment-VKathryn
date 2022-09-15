@@ -50,3 +50,6 @@ const hand4 = [7, 2, 7, 2, 7]
 // Expected output: true
 
 // b) Create the function that makes the test pass.
+
+
+pushing up 

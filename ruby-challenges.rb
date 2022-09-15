@@ -30,3 +30,5 @@ us_states = { northwest: ['Washington', 'Oregon', 'Idaho'], southwest: ['Califor
 # Expected output example: my_bike.pedal_faster(18) => 28
 # Expected output example: my_bike.brake(5) => 23
 # Expected output example: my_bike.brake(25) => 0
+
+pushing up
